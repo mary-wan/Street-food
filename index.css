@@ -49,6 +49,10 @@ a:hover{
 #food{
    color: #EAAB1B; 
 }
+#play{
+    color: black;
+    font-weight: 570;
+}
 .ell{
     margin-top: -550px;/*increase -270*/
     height: 500px;
@@ -115,3 +119,15 @@ a:hover{
 h2{
     color: #EAAB1B;
 }
+.indt{
+    text-indent: 70px;
+    margin-top: -13px;
+}
+.menu-1{
+    height: 500px;
+    width: 80%;
+    margin-left: 100px;
+    background-color:lightgray;
+
+ }
+ 
