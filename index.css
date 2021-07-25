@@ -53,7 +53,8 @@ a:hover{
 }
 #play{
     color: black;
-    font-weight: 570;
+    font-weight: 600;
+    opacity: 0.8;
 }
 .ell{
     margin-top: -550px;/*increase -270*/
@@ -145,6 +146,11 @@ a:hover{
     margin-bottom: 30px;
     margin-left: 120px;
    
+}
+#now{
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
 }
 .txt{
     margin-top: -20px;
@@ -382,7 +388,7 @@ footer{
    font-weight: 700;
     
  }
- .txt{
+.txt{
     font-size: 18px;
 }
 .txtcont{
