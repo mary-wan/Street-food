@@ -59,3 +59,41 @@ a:hover{
     background-color: #649549;
    
 }
+.separa{
+    height: 150px;
+    width: 300px;
+    border-style: dashed;
+    border-width: 2px;
+    border-bottom: none;
+    border-color: black;
+     border-top-left-radius: 500px;
+     border-top-right-radius: 500px;
+     margin-top: -250px;
+     margin-right: 180px;
+     border-color:  green;  
+}
+#plate{
+    margin-top: -50px;
+    margin-left: 890px;
+}
+#waffle{
+    margin-top: -60px;
+    margin-left: 730px;
+}
+#kbab{
+    margin-top: -200px;
+    margin-left: 780px;  
+}
+#salad{
+    margin-top: -160px;
+    margin-left: 890px;  
+
+}
+#french{
+    margin-left: 1000px;
+    margin-top: -50px;
+}
+#cherry{
+    margin-left: 1040px;
+    margin-top: -7px;
+}
