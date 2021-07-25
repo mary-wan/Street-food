@@ -295,3 +295,13 @@ h4{
  #us{
     color: #6CB840;
 }
+footer{
+    margin-top: -10px;
+}
+.menu-4{
+    background-color: #C9ECB5;
+    height: 200px;
+    width: 80%;
+    margin-left: 100px;
+
+}
