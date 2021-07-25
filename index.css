@@ -343,3 +343,22 @@ footer{
 #follow{
     font-size: 15px;
 }
+.sbt{
+    margin-top: -60px;
+    
+ }
+ .icon{
+    margin-top: -70px;
+    margin-left: 92%;
+ }
+ #news{
+    background-color: #6CB840;
+    border: none;
+    width: 7%;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-left: 92%;
+   font-weight: 700;
+    
+ }
