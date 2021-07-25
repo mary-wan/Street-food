@@ -18,7 +18,7 @@
     text-decoration: none;
     color: #000;
     padding-right: 20px;
-    padding-left: 80px;  
+    padding-left: 60px; /*80*/ 
     margin-top: 10px;
     font-size: 12px;
     font-weight: bold;
@@ -32,7 +32,7 @@ a:hover{
 }
 .intro{
     margin-left: 100px;
-    margin-top: 50px;
+    margin-top: 20px;
     font-size: 12px;
 } 
 #order{
@@ -57,14 +57,17 @@ a:hover{
     opacity: 0.8;
 }
 .ell{
-    margin-top: -550px;/*increase -270*/
-    height: 500px;
-    margin-left: 500px;/*reduce*/
-    margin-right: -120px;/*increase*/
+    margin-top: -650px;
+    height: 600px;
+    margin-left: 400px;
+    margin-right: -120px;
     border-bottom-left-radius: 500px;
     border-bottom-right-radius: 500px;
     background-color: #B8E79C;
    
+}
+#ttl{
+    font-size: 30px;
 }
 .separa{
     height: 150px;
@@ -77,7 +80,7 @@ a:hover{
      border-top-right-radius: 500px;
      margin-top: -250px;
      margin-right: 180px;
-     border-color:  green;  
+     border-color: #649549;  
 }
 #plate{
     margin-top: -50px;
@@ -395,3 +398,15 @@ footer{
     font-size: 18px;
     margin-left: 15px;
 }
+#star{
+    margin-left: 20px;
+    margin-right: 40px;
+    margin-top: 10px;
+    
+}
+#fd{
+    margin-left:530px;
+    margin-top: -5px;
+    font-weight: bolder;
+    font-size: 30px;
+ }
