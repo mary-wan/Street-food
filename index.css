@@ -146,3 +146,80 @@ h2{
    text-align: center;
    margin-left: -150px;
 }
+.descrip{
+    background-color: white;
+    height: 130px;
+    width: 170px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 70px;
+    margin-right: 120px;
+   
+}
+.one{
+    margin-top: -110px;
+    margin-left: -90px;
+}
+#nam{
+    font-size: 12px;
+
+}
+.smt{
+    font-size: 10px;
+    margin-left: 40px;
+}
+.dent1{
+    text-indent: 20px;
+    margin-top: -10px;
+}
+.dent2{
+    text-indent: 20px;
+}
+.descrip2{
+    background-color: white;
+    height: 130px;
+    width: 170px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 70px;
+    margin-right: 120px;
+    
+}
+.descrip3{
+    background-color: white;
+    height: 130px;
+    width: 170px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 70px;
+    margin-right: 120px;
+    
+    
+}
+.disp2{
+    display: flex;
+    margin-left: 100px;
+}
+.descrip4{
+    background-color: white;
+    height: 130px;
+    width: 170px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 70px;
+    margin-right: 120px;     
+}
+.descrip5{
+    background-color: white;
+    height: 130px;
+    width: 170px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 70px;
+    margin-right: 120px;  
+    
+}
+.descrip6{
+    background-color: white;
+    height: 130px;
+    width: 170px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 70px;
+    margin-right: 120px;  
+    
+}
