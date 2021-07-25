@@ -130,4 +130,19 @@ h2{
     background-color:lightgray;
 
  }
- 
+ .menu-1 img{
+    width: 150px;
+    height: 150px;
+}
+.disp{
+    display: flex;
+    margin-bottom: 30px;
+    margin-left: 100px;
+   
+}
+.txt{
+    margin-top: -20px;
+    margin-bottom: 50px;
+   text-align: center;
+   margin-left: -150px;
+}
