@@ -305,3 +305,10 @@ footer{
     margin-left: 100px;
 
 }
+.separator{
+    border-left: 2px dashed;
+    width: 1px;
+    height: 120px;
+    margin-top: -120px;
+    margin-left: 200px;
+}
