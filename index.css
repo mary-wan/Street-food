@@ -49,3 +49,13 @@ a:hover{
 #food{
    color: #EAAB1B; 
 }
+.ell{
+    margin-top: -550px;/*increase -270*/
+    height: 500px;
+    margin-left: 500px;/*reduce*/
+    margin-right: -120px;/*increase*/
+    border-bottom-left-radius: 500px;
+    border-bottom-right-radius: 500px;
+    background-color: #649549;
+   
+}
