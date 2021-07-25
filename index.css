@@ -97,3 +97,21 @@ a:hover{
     margin-left: 1040px;
     margin-top: -7px;
 }
+.eat{
+    height: 300px;
+    display: flex;
+    margin-left: 100px;
+    width: 80%;
+   
+}
+.eat img{ 
+    float: left;
+}
+.exp{
+    float: right;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+h2{
+    color: #EAAB1B;
+}
