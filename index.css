@@ -20,6 +20,8 @@
     padding-right: 20px;
     padding-left: 80px;  
     margin-top: 10px;
+    font-size: 12px;
+    font-weight: bold;
     
 }
 a:hover{
@@ -31,7 +33,7 @@ a:hover{
 .intro{
     margin-left: 100px;
     margin-top: 50px;
-    font-size: 14px;
+    font-size: 12px;
 } 
 #order{
    border-radius: 50px;
@@ -60,7 +62,7 @@ a:hover{
     margin-right: -120px;/*increase*/
     border-bottom-left-radius: 500px;
     border-bottom-right-radius: 500px;
-    background-color: #649549;
+    background-color: #B8E79C;
    
 }
 .separa{
@@ -122,6 +124,7 @@ h2{
 .indt{
     text-indent: 70px;
     margin-top: -13px;
+    font-size: 14px;
 }
 .menu-1{
     height: 500px;
@@ -235,7 +238,7 @@ h4{
     
 }
 #juice{
-    margin-top: -190px;
+    margin-top: -170px;
  }
  #burger1{
      margin-top: -350px;
@@ -246,6 +249,10 @@ h4{
      float: right;
      margin-top: -400px;
      margin-right: 100px;
+     
+ }
+ #pro{
+     font-size: 14px;
  }
  .dealcont{
      float: left;
@@ -261,10 +268,11 @@ h4{
      font-size: 20px;
  }
  .menu-3{
-    background-color: #FFD77C;
+    background-color: #FFF5DD;
     height: 450px;
     width: 80%;
     margin-left: 100px;
+    font-size: 14px;
  }
  #email{
      border-radius: 25px;
@@ -299,10 +307,11 @@ footer{
     margin-top: -10px;
 }
 .menu-4{
-    background-color: #C9ECB5;
+    background-color:  #F1FAEC;
     height: 200px;
     width: 80%;
     margin-left: 100px;
+    font-size: 12px;
 
 }
 .separator{
@@ -330,6 +339,7 @@ footer{
 }
 #fri{
     margin-top: -10px;
+    font-size: 12px;
 }
 .address{
     margin-left: 230px;
