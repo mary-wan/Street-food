@@ -243,11 +243,16 @@ a:hover{
     height: 600px;
     width: 80%;
     margin-left: 100px;
+    display: flex;
 
 }
 h4{
     text-align: center;
     
+}
+.jj{
+    float: left;
+   
 }
 #juice{
     margin-top: -170px;
@@ -259,7 +264,7 @@ h4{
  }
  .des{
      float: right;
-     margin-top: -400px;
+     margin-top: 100px;
      margin-right: 100px;
      
  }
@@ -269,6 +274,7 @@ h4{
  .dealcont{
      float: left;
  }
+
  #combo{
      color: #6CB840;
      font-size: 30px;
